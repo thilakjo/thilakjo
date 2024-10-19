@@ -29,9 +29,7 @@ Building a website that connects Xerox shops and customers for streamlined servi
  <a href="https://instagram.com/thilakjo" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thilakjo" height="30" width="40" /> </a> 
  <a href="https://auth.geeksforgeeks.org/user/thilakjo/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thilakjo" height="30" width="40" /> </a> 
  <a href="https://discordapp.com/users/thilakjo" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thilakjo" height="30" width="40" /> </a> 
-<a href="mailto:thilak195@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" alt="thilak195@gmail.com" height="30" width="40" />![icons8-gmail](https://github.com/user-attachments/assets/41ee8c5e-9025-4938-989d-08e379987d1c)
-</a>
+<a href="mailto:thilak195@gmail.com" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg alt="thilak195@gmail.com" height="30" width="40" /> </a> 
 
  <a href="https://github.com/thilakjo" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thilakjo" height="30" width="40" /> </a> 
  </p>
