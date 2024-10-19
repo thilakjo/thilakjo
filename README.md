@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thilak</h1> <h3 align="center">Aspiring UI/UX Designer | Full-Stack Web Developer | Tech Enthusiast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilakjo&label=Profile%20views&color=0e75b6&style=flat" alt="thilakjo" /> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 About Me:
 🔭 Currently contributing to Hacktoberfest 2024 and collaborating on a project with a peer.
 🌱 Learning UI/UX Design with a focus on product design, inspired by visionaries like Steve Jobs.
