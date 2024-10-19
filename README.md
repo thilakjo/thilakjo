@@ -1,4 +1,4 @@
-![icons8-gmail](https://github.com/user-attachments/assets/41ee8c5e-9025-4938-989d-08e379987d1c)<h1 align="center">Hey thr 👋, I'm Thilak</h1> <h3 align="center">Aspiring UI/UX Designer | Full-Stack Web Developer | Tech Enthusiast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilakjo&label=Profile%20views&color=0e75b6&style=flat" alt="thilakjo" /> </p>
+<h1 align="center">Hey thr 👋, I'm Thilak</h1> <h3 align="center">Aspiring UI/UX Designer | Full-Stack Web Developer | Tech Enthusiast</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilakjo&label=Profile%20views&color=0e75b6&style=flat" alt="thilakjo" /> </p>
 
 
  <h3 allign= "center">About Me:</h3><br>
@@ -30,7 +30,7 @@ Building a website that connects Xerox shops and customers for streamlined servi
  <a href="https://auth.geeksforgeeks.org/user/thilakjo/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="thilakjo" height="30" width="40" /> </a> 
  <a href="https://discordapp.com/users/thilakjo" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thilakjo" height="30" width="40" /> </a> 
 <a href="mailto:thilak195@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" alt="thilak195@gmail.com" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" alt="thilak195@gmail.com" height="30" width="40" />![icons8-gmail](https://github.com/user-attachments/assets/41ee8c5e-9025-4938-989d-08e379987d1c)
 </a>
 
  <a href="https://github.com/thilakjo" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thilakjo" height="30" width="40" /> </a> 
