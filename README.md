@@ -80,27 +80,29 @@
   <tr>
     <td align="center">
       <h3>Gists</h3>
-      ![Gists](https://github-readme-stats.vercel.app/api/gists?username=thilakjo&theme=chartreuse-dark)
+      <img src="https://github-readme-stats.vercel.app/api/gists?username=thilakjo&theme=chartreuse-dark" alt="Gists" />
     </td>
     <td align="center">
       <h3>Top Languages</h3>
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=compact&theme=chartreuse-dark)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
     </td>
   </tr>
   <tr>
     <td align="center">
       <h3>GitHub Stats</h3>
-      ![Thilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilakjo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark)
+      <img src="https://github-readme-stats.vercel.app/api?username=thilakjo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
     </td>
     <td align="center">
       <h3>Language Usage</h3>
-      ![Thilak's Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=chartreuse-dark)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=chartreuse-dark" alt="Language Usage" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <h3>WakaTime Stats</h3>
-      [![Thilak's WakaTime stats](https://wakatime.com/badge/user/your_wakatime_user_id.svg)](https://wakatime.com/@your_wakatime_user_id)
+      <a href="https://wakatime.com/@your_wakatime_user_id">
+        <img src="https://wakatime.com/badge/user/your_wakatime_user_id.svg" alt="WakaTime" />
+      </a>
     </td>
   </tr>
 </table>
@@ -110,12 +112,16 @@
 
 <div align="center">
   <h2>Activity Graph 📈</h2>
-  [![Thilakjo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thilakjo&theme=chartreuse-dark)](https://github.com/thilakjo/github-readme-activity-graph)
+  <a href="https://github.com/thilakjo/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilakjo&theme=chartreuse-dark" alt="Activity Graph" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
   <h2>Top Languages (Donut) 🍩</h2>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=chartreuse-dark)](https://github.com/thilakjo/github-readme-stats)
+  <a href="https://github.com/thilakjo/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=chartreuse-dark" alt="Top Languages Donut" />
+  </a>
 </div>
