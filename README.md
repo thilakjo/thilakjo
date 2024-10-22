@@ -4,10 +4,10 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Thilak+I+am+ok!;)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Thilak+I+am+ok!;)
 
 
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+<br>
 
 <h2 align="center"> Hacktoberfest Badges 🏆</h2>
   
