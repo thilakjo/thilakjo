@@ -74,38 +74,48 @@
   </tr>
 </table>
 
-### Additional Stats
+<h2 align="center">Additional Stats 📊</h2>
 
-<div align="center">
-  <h2>Additional Stats Cards</h2>
-  
-  <!-- Gist Card -->
-  ![Gists](https://github-readme-stats.vercel.app/api/gists?username=thilakjo&theme=chartreuse-dark)
-
-  <!-- Repo Card -->
-  ![Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=compact&theme=chartreuse-dark)
-
-  <!-- Stats Card with specific metrics -->
-  ![Thilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilakjo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark)
-
-  <!-- Language Card -->
-  ![Thilak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=chartreuse-dark)
-
-  <!-- WakaTime Card -->
-  [![Thilak's WakaTime stats](https://wakatime.com/badge/user/your_wakatime_user_id.svg)](https://wakatime.com/@your_wakatime_user_id)
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <h3>Gists</h3>
+      ![Gists](https://github-readme-stats.vercel.app/api/gists?username=thilakjo&theme=chartreuse-dark)
+    </td>
+    <td align="center">
+      <h3>Top Languages</h3>
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=compact&theme=chartreuse-dark)
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>GitHub Stats</h3>
+      ![Thilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilakjo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark)
+    </td>
+    <td align="center">
+      <h3>Language Usage</h3>
+      ![Thilak's Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=chartreuse-dark)
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>WakaTime Stats</h3>
+      [![Thilak's WakaTime stats](https://wakatime.com/badge/user/your_wakatime_user_id.svg)](https://wakatime.com/@your_wakatime_user_id)
+    </td>
+  </tr>
+</table>
 
 <br>
 <hr style="border: 2px solid green; width: 100%;">
 
 <div align="center">
-  
-[![Thilakjo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thilakjo&theme=github-dark)](https://github.com/thilakjo/github-readme-activity-graph)
-
+  <h2>Activity Graph 📈</h2>
+  [![Thilakjo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thilakjo&theme=chartreuse-dark)](https://github.com/thilakjo/github-readme-activity-graph)
 </div>
 
+<br>
+
 <div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=github_dark)](https://github.com/thilakjo/github-readme-stats)
-
+  <h2>Top Languages (Donut) 🍩</h2>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=chartreuse-dark)](https://github.com/thilakjo/github-readme-stats)
 </div>
