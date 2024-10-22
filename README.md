@@ -35,12 +35,12 @@
     <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/thilakjo">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&bg=000000" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-5A30C1?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+  <a href="https://www.geeksforgeeks.org/user/thilakjo/">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-5A30C1?style=for-the-badge&logo=geeksforgeeks&logoColor=white&bg=00FF00" alt="GeeksforGeeks Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/your_user_id">
+  <a href="https://stackoverflow.com/users/20220388/thilak">
     <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
 </div>
