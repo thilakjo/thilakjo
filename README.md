@@ -1,6 +1,6 @@
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
-https://github.com/thilakjo/thilakjo/issues/1#issue-2605419741
+![GIF Description](https://raw.githubusercontent.com/thilakjo/thilakjo/refs/heads/main/Github.gif)
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
