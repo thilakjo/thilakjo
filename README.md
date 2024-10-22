@@ -4,7 +4,8 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hey+thr!+I'm+Thilak;Aspiring+UI/UX+Designer;Full-Stack+Web+Developer;Learning+Never+Stops!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey+there!;I'm+Thilak;I+am+ok!)](https://git.io/typing-svg)
+
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
