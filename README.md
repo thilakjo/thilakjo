@@ -1,15 +1,11 @@
-
-
 ![GIF Description](https://raw.githubusercontent.com/thilakjo/thilakjo/refs/heads/main/Github.gif)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Thilak,+I+am+ok!)](https://git.io/typing-svg)
 
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Thilak+I+am+ok!;)
-
-
-<br>
+<hr style="border: 2px solid green; width: 100%;">
 
 <h2 align="center"> Hacktoberfest Badges 🏆</h2>
+
   
   [![An image of @thilakjo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thilakjo)](https://holopin.io/@thilakjo)
   
