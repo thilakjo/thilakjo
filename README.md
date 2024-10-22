@@ -6,8 +6,7 @@
 
 <h2 align="center"> Hacktoberfest Badges 🏆</h2>
 
-  
-  [![An image of @thilakjo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thilakjo)](https://holopin.io/@thilakjo)
+[![An image of @thilakjo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thilakjo)](https://holopin.io/@thilakjo)
   
 <br>
 
@@ -30,13 +29,19 @@
 <div id="header" align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/thilakjo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/thilakjo">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/thilakjo">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-5A30C1?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/your_user_id">
+    <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
 </div>
 </div>
@@ -49,19 +54,20 @@
 
 </div>
 
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+<hr style="border: 2px solid green; width: 100%;">
 
-  <div align="center">
+
+<div align="center">
 
 <h2 align="center">GitHub Stats 📊</h2>
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=thilakjo&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=thilakjo&show_icons=true&theme=dark-green" alt="GitHub Stats" />
     </td>
     <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=thilakjo&theme=github_dark" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=thilakjo&theme=dark-green" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
@@ -75,10 +81,6 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=github_dark)](https://github.com/thilakjo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=dark-green)](https://github.com/thilakjo/github-readme-stats)
 
 </div>
-
-
-
-
