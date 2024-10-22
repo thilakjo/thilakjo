@@ -1,4 +1,4 @@
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+![image](https://raw.githubusercontent.com/thilakjo/thilakjo/refs/heads/main/HD%20Green%20Neon%20Line%20Light%20PNG.jpeg)
 
 ![GIF Description](https://raw.githubusercontent.com/thilakjo/thilakjo/refs/heads/main/Github.gif)
 
