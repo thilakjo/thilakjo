@@ -63,11 +63,11 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=thilakjo&show_icons=true&theme=dark-green" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=thilakjo&show_icons=true&theme=github_dark" alt="GitHub Stats" />
     </td>
     <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=thilakjo&theme=dark-green" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=thilakjo&theme=github_dark" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
@@ -81,6 +81,6 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=dark-green)](https://github.com/thilakjo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=github_dark)](https://github.com/thilakjo/github-readme-stats)
 
 </div>
