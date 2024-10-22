@@ -1,8 +1,8 @@
-![image](https://raw.githubusercontent.com/thilakjo/thilakjo/refs/heads/main/HD%20Green%20Neon%20Line%20Light%20PNG.jpeg)
+
 
 ![GIF Description](https://raw.githubusercontent.com/thilakjo/thilakjo/refs/heads/main/Github.gif)
 
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hey+thr!+I'm+Thilak;Aspiring+UI/UX+Designer;Full-Stack+Web+Developer;Learning+Never+Stops!)](https://git.io/typing-svg)
 
