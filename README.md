@@ -60,18 +60,43 @@
 <div align="center">
 
 <h2 align="center">GitHub Stats 📊</h2>
+
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=thilakjo&show_icons=true&theme=green" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=thilakjo&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
     </td>
     <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=thilakjo&theme=green" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=thilakjo&theme=chartreuse-dark" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
 </table>
+
+### Additional Stats
+
+<div align="center">
+  <h2>Additional Stats Cards</h2>
+  
+  <!-- Gist Card -->
+  ![Gists](https://github-readme-stats.vercel.app/api/gists?username=thilakjo&theme=chartreuse-dark)
+
+  <!-- Repo Card -->
+  ![Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=compact&theme=chartreuse-dark)
+
+  <!-- Stats Card with specific metrics -->
+  ![Thilak's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilakjo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark)
+
+  <!-- Language Card -->
+  ![Thilak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=chartreuse-dark)
+
+  <!-- WakaTime Card -->
+  [![Thilak's WakaTime stats](https://wakatime.com/badge/user/your_wakatime_user_id.svg)](https://wakatime.com/@your_wakatime_user_id)
+</div>
+
+<br>
+<hr style="border: 2px solid green; width: 100%;">
 
 <div align="center">
   
