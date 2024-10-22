@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/thilakjo/">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-5A30C1?style=for-the-badge&logo=geeksforgeeks&logoColor=green" alt="GeeksforGeeks Badge"/>
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-5A30C1?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/20220388/thilak">
     <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
@@ -95,6 +95,6 @@
 <div align="center">
   <h2>Activity Graph 📈</h2>
   <a href="https://github.com/thilakjo/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilakjo&theme=chartreuse-dark&line=white" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilakjo&theme=chartreuse-dark" alt="Activity Graph" />
   </a>
 </div>
