@@ -80,7 +80,7 @@
   <tr>
     <td align="center">
       <h3>Gists</h3>
-      <img src="https://github-readme-stats.vercel.app/api/gists?username=thilakjo&theme=chartreuse-dark" alt="Gists" />
+      <img src="https://gist.github.com/thilakjo/gists.atom" alt="Gists" />
     </td>
     <td align="center">
       <h3>Top Languages</h3>
@@ -93,7 +93,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=thilakjo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <h3>Language Usage</h3>
+      <h3>Language Usage 🍩</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=chartreuse-dark" alt="Language Usage" />
     </td>
   </tr>
@@ -113,15 +113,6 @@
 <div align="center">
   <h2>Activity Graph 📈</h2>
   <a href="https://github.com/thilakjo/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilakjo&theme=chartreuse-dark" alt="Activity Graph" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <h2>Top Languages (Donut) 🍩</h2>
-  <a href="https://github.com/thilakjo/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=donut-vertical&theme=chartreuse-dark" alt="Top Languages Donut" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilakjo&theme=chartreuse-dark&line=white" alt="Activity Graph" />
   </a>
 </div>
