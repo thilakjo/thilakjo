@@ -80,13 +80,11 @@
   <tr>
     <td align="center">
       <h3>Top Languages 🍩</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=compact&theme=chartreuse-dark&title_color=green&text_color=white&icon_color=black&border_color=green&bg_color=black" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=compact&theme=chartreuse-dark alt="Top Languages" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=thilakjo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark&title_color=green&text_color=white&icon_color=black&border_color=green&bg_color=black" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=thilakjo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -97,6 +95,6 @@
 <div align="center">
   <h2>Activity Graph 📈</h2>
   <a href="https://github.com/thilakjo/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilakjo&theme=chartreuse-dark&line=white&bg=black" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilakjo&theme=chartreuse-dark alt="Activity Graph" />
   </a>
 </div>
