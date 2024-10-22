@@ -80,7 +80,7 @@
   <tr>
     <td align="center">
       <h3>Top Languages 🍩</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=compact&theme=chartreuse-dark alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thilakjo&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
     </td>
     <td align="center">
       <h3>GitHub Stats</h3>
@@ -95,6 +95,6 @@
 <div align="center">
   <h2>Activity Graph 📈</h2>
   <a href="https://github.com/thilakjo/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilakjo&theme=chartreuse-dark alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thilakjo&theme=chartreuse-dark" alt="Activity Graph" />
   </a>
 </div>
